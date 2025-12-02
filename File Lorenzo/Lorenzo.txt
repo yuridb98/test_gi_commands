@@ -1,2 +1,4 @@
 Sono il file di Lorenzo
 Lista dei task a lavoro
+Lista della spesa
+
